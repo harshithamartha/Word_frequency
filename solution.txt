@@ -1,0 +1,5 @@
+Enter a String
+i am harshi hello harshi hello
+{i=1, hello=2, am=1, harshi=2}
+
+Process finished with exit code 0
